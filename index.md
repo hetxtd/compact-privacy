@@ -60,6 +60,6 @@ We may update this policy when Compact's features or data practices change. The 
 
 **Hakam Solutions Ltd**
 
-Privacy and support enquiries: **[PUBLIC CONTACT EMAIL TO BE ADDED]**
+Privacy and support enquiries: nasir@hakamsolutions.com
 
 You may also raise data-protection concerns with the UK's Information Commissioner's Office at https://ico.org.uk.
